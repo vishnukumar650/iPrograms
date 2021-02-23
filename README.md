@@ -3,3 +3,4 @@
 ## Patterns
 ## Basic Mental Math
 ## Mad Math
+## Essential Formulas
