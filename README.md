@@ -5,3 +5,4 @@
 ## Mad Math
 ## Essential Formulas
 ## Shortcuts
+## Frequently Asked Problems/Questions
