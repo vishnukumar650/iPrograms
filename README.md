@@ -6,3 +6,4 @@
 ## Essential Formulas
 ## Shortcuts
 ## Frequently Asked Problems/Questions
+## Tips and Tricks
