@@ -7,3 +7,4 @@
 ## Shortcuts
 ## Frequently Asked Problems/Questions
 ## Tips and Tricks
+## Programming Logic
