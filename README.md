@@ -9,3 +9,4 @@
 ## Tips and Tricks
 ## Programming Logic
 ## Simple Math
+## Eccentric ways to solve problems
