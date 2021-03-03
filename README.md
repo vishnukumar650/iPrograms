@@ -11,3 +11,4 @@
 ## Simple Math
 ## Eccentric ways to solve problems
 ## Popular Problems
+## Easy Problems
