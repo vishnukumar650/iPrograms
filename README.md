@@ -12,3 +12,4 @@
 ## Eccentric ways to solve problems
 ## Popular Problems
 ## Easy Problems
+## New Discoveries
