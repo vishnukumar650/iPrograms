@@ -18,3 +18,4 @@
 ## Hacking Logics
 ## Hacking Problems
 ## Unconventional Logics
+## Dummy Approaches
