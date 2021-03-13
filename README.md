@@ -21,3 +21,4 @@
 ## Dummy Approaches
 ## Famous Problems
 ## Sherlock Holmes Attitude
+## Creative Solutions
