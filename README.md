@@ -25,3 +25,4 @@
 ## Hacks and Cracks
 ## Anonymous Hacks
 ## Mad Problems
+## Crazy ways to solve problems
