@@ -28,3 +28,4 @@
 ## Crazy ways to solve problems
 ## Brutal ways to solve problems
 ## Fresh Problems
+## Super ways to solve problems
