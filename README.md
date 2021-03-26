@@ -31,3 +31,4 @@
 ## Super ways to solve problems
 ## Dangerous problems
 ## Own discoveries
+## Fool's Approach to solve problems
