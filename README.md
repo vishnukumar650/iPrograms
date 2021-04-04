@@ -40,3 +40,4 @@
 ## Funny problems
 ## Unbelievable problems
 ## Ugly ways to solve problems
+## Unknown hacks
