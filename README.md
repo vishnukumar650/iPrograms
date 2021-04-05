@@ -41,3 +41,4 @@
 ## Unbelievable problems
 ## Ugly ways to solve problems
 ## Unknown hacks
+## Rock star ways to solve problems
