@@ -42,3 +42,4 @@
 ## Ugly ways to solve problems
 ## Unknown hacks
 ## Rock star ways to solve problems
+## Cheerful reasons to write code
