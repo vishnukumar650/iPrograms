@@ -49,3 +49,4 @@
 ## Cheerful ways to solve problems
 ## Powerful ways to solve problems
 ## Manly ways to solve problems
+## Greedy ways to solve problems
