@@ -50,3 +50,4 @@
 ## Powerful ways to solve problems
 ## Manly ways to solve problems
 ## Greedy ways to solve problems
+## Dirtiest Hacks to solve problems
