@@ -53,3 +53,4 @@
 ## Dirtiest Hacks to solve problems
 ## Rockstar ways to solve problems
 ## Rowdy ways to solve problems
+## Mafia ways to solve problems
