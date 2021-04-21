@@ -57,3 +57,4 @@
 ## Catshit ways to solve problems
 ## Culprit ways to solve problems
 ## Out of the box solutions
+## Solving problems before dying
