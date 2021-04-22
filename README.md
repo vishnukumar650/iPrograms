@@ -58,3 +58,4 @@
 ## Culprit ways to solve problems
 ## Out of the box solutions
 ## Solving problems before dying
+## Mysterious ways to solve problems
