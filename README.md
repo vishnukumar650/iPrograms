@@ -60,3 +60,4 @@
 ## Solving problems before dying
 ## Mysterious ways to solve problems
 ## Failing ways to solve problems
+## Stupid ways to solve problems
