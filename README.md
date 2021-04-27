@@ -63,3 +63,4 @@
 ## Stupid ways to solve problems
 ## Don't know ways to solve problems
 ## Doubtful ways to solve problems
+## Quiting ways to solve problems
