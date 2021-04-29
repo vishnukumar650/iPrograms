@@ -65,3 +65,4 @@
 ## Doubtful ways to solve problems
 ## Quiting ways to solve problems
 ## Bad ways to solve problems
+## Crocodile ways to solve problems
