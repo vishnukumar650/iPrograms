@@ -66,3 +66,4 @@
 ## Quiting ways to solve problems
 ## Bad ways to solve problems
 ## Crocodile ways to solve problems
+## Calmly ways to solve problems
