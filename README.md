@@ -67,3 +67,4 @@
 ## Bad ways to solve problems
 ## Crocodile ways to solve problems
 ## Calmly ways to solve problems
+## Bullshit ways to solve problems
