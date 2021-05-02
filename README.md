@@ -68,3 +68,4 @@
 ## Crocodile ways to solve problems
 ## Calmly ways to solve problems
 ## Bullshit ways to solve problems
+## Savage ways to solve problems
