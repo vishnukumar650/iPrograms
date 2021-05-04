@@ -70,3 +70,4 @@
 ## Bullshit ways to solve problems
 ## Savage ways to solve problems
 ## Liquid ways to solve problems
+## Solid ways to solve problems
