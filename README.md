@@ -72,3 +72,4 @@
 ## Liquid ways to solve problems
 ## Solid ways to solve problems
 ## Bad ways to solve problems
+## Good ways to solve problems
