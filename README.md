@@ -75,3 +75,4 @@
 ## Good ways to solve problems
 ## Real ways to solve problems
 ## Stylish ways to solve problems
+## Golden ways to solve problems
