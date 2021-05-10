@@ -76,3 +76,4 @@
 ## Real ways to solve problems
 ## Stylish ways to solve problems
 ## Golden ways to solve problems
+## Diamond ways to solve problems
