@@ -78,3 +78,4 @@
 ## Golden ways to solve problems
 ## Diamond ways to solve problems
 ## Platinum ways to solve problems
+## Some ways to solve problems
