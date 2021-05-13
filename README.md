@@ -79,3 +79,4 @@
 ## Diamond ways to solve problems
 ## Platinum ways to solve problems
 ## Some ways to solve problems
+## Maddest ways to solve problems
