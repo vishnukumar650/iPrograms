@@ -80,3 +80,4 @@
 ## Platinum ways to solve problems
 ## Some ways to solve problems
 ## Maddest ways to solve problems
+## Timely ways to solve problems
