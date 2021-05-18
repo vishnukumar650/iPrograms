@@ -84,3 +84,4 @@
 ## Lionly ways to solve problems
 ## Ducking ways to solve problems
 ## 🐈 approach to solve problems
+## Doggy ways to solve problems
