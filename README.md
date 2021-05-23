@@ -89,3 +89,4 @@
 ## Prison break ways to solve problems
 ## Breaking bad ways to solve problems
 ## Cockroaches approch to solve problems
+## Chanting ways to solve problems
