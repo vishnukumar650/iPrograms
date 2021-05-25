@@ -91,3 +91,4 @@
 ## Cockroaches approch to solve problems
 ## Chanting ways to solve problems
 ## Fucking ways to solve problems
+## Artificial ways to solve problems
