@@ -93,3 +93,4 @@
 ## Fucking ways to solve problems
 ## Artificial ways to solve problems
 ## Robotic ways to solve problems
+## Natural ways to solve problems
