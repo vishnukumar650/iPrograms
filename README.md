@@ -95,3 +95,4 @@
 ## Robotic ways to solve problems
 ## Natural ways to solve problems
 ## Coldest ways to solve problems
+## Hottest ways to solve problems
