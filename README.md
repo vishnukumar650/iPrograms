@@ -96,3 +96,4 @@
 ## Natural ways to solve problems
 ## Coldest ways to solve problems
 ## Hottest ways to solve problems
+## Shameful ways to solve problems
