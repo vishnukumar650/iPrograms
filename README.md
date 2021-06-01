@@ -98,3 +98,4 @@
 ## Hottest ways to solve problems
 ## Shameful ways to solve problems
 ## Romantic ways to solve problems
+## Soulful ways to solve problems
