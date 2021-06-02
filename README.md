@@ -99,3 +99,4 @@
 ## Shameful ways to solve problems
 ## Romantic ways to solve problems
 ## Soulful ways to solve problems
+## Strong ways to solve problems
