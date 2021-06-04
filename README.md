@@ -101,3 +101,4 @@
 ## Soulful ways to solve problems
 ## Strong ways to solve problems
 ## Wrong ways to solve problems
+## Right ways to solve problems
